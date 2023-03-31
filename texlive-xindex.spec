@@ -1,6 +1,6 @@
 Name:		texlive-xindex
 Version:	64453
-Release:	1
+Release:	2
 Summary:	Unicode compatible index generation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xindex
