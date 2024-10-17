@@ -3,7 +3,7 @@ Version:	64453
 Release:	2
 Summary:	Unicode compatible index generation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xindex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xindex
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xindex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xindex.doc.r%{version}.tar.xz
